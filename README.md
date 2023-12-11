@@ -11,7 +11,7 @@ Llama 2 has gained traction as a robust, powerful family of Large Language Model
 ## System Requirements
 * Operating System: Ubuntu 22.04
 * CPU requirements: None, tested with Intel&reg; Xeon&reg; Platinum 8380 CPU @ 2.30GHz
-* GPU requirements: Any NVIDIA training GPU(s), tested with 1x NVIDIA A100-80GB
+* GPU requirements: Minimum 1x NVIDIA A100-80GB for PEFT on 7B
 * NVIDIA driver requirements: Latest driver version
 * Storage requirements: 40GB
 

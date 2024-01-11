@@ -77,9 +77,9 @@ environment:
     os_distro_release: "20.04"
     schema_version: v2
     user_info:
-      uid: ""
-      gid: ""
-      username: ""
+      uid: "0"
+      gid: "0"
+      username: "root"
       is_root: null
     package_managers:
     - name: apt

@@ -23,8 +23,6 @@ Llama 2 has gained traction as a robust, powerful family of Large Language Model
 
 * ```llama2-ptuning.ipynb```: This notebook provides a sample workflow for fine-tuning the Llama 2 base model for extractive Question-Answering on a custom dataset using customized prompt formattings and a p-tuning method.
 
-Have questions? Please direct any issues, fixes, suggestions, and discussion on this project to the DevZone Members Only Forum thread [here](https://forums.developer.nvidia.com/t/support-workbench-example-project-llama-2-finetune/278375). 
-
 # Quickstart (Llama-2 7B)
 
 ### Prerequisites
@@ -43,7 +41,7 @@ Llama 2 is a gated model that is available for commercial use. To be able to dow
 
 If you do not NVIDIA AI Workbench installed, first follow the installation instructions for AI Workbench [here](https://developer.nvidia.com/ai-workbench-beta/). Then, 
 
-1. Fork this Project to your own GitHub namespace and copying the link
+1. Fork this Project to your own GitHub namespace and copy the link
 
    ```
    https://github.com/[your_namespace]/<project_name>
@@ -51,9 +49,9 @@ If you do not NVIDIA AI Workbench installed, first follow the installation instr
    
 2. Open NVIDIA AI Workbench. Select a location to work in. 
    
-3. Clone this Project onto your desired machine by selecting "Clone Project" and providing the GitHub link.
+3. Clone this Project onto your desired machine by selecting **Clone Project** and providing the GitHub link.
    
-4. Wait for the project to build. 
+4. Wait for the project to build. You can expand the bottom **Building** indicator to view real-time build logs. 
    
 5. When the build completes, set the following configurations.
 
@@ -123,3 +121,5 @@ This notebook has been tested with a 1x NVIDIA A100-80gb GPU system and the Beta
 This NVIDIA AI Workbench example project is under the [Apache 2.0 License](https://github.com/nv-edwli/llama-2-finetune/blob/main/LICENSE.txt)
 
 This project may utilize additional third-party open source software projects. Review the license terms of these open source projects before use. Third party components used as part of this project are subject to their separate legal notices or terms that accompany the components. You are responsible for confirming compliance with third-party component license terms and requirements. 
+
+Have questions? Please direct any issues, fixes, suggestions, and discussion on this project to the DevZone Members Only Forum thread [here](https://forums.developer.nvidia.com/t/support-workbench-example-project-llama-2-finetune/278375). 

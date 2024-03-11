@@ -100,5 +100,5 @@ execution:
     options: volumeName=tensorboard-logs-volume
   - type: host
     target: /project/models/
-    description: Location of Llama2 Model
+    description: Where the Llama2 model will be located on the HOST system
     options: ""

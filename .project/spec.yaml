@@ -83,7 +83,7 @@ execution:
   resources:
     gpu:
       requested: 1
-    sharedMemoryMB: 1024
+    sharedMemoryMB: 2048
   secrets:
   - variable: HF_USERNAME
     description: Hugging Face account username for Accessing Llama 2
